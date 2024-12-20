@@ -1,0 +1,68 @@
+﻿location,Label,Color,Marker,Size,Alpha,depth_interval,Ca,Mg,Na,K,HCO3,CO3,Cl,SO4
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,3.99,0.1,31.1,2.06,0,22.21,7,27.1
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,3.25,0.04,34.4,2.55,0,15.01,8.42,20.8
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,3.69,0.04,34,0.7,0,14.4,7.7,27.5
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,3.88,0.03,47.9,0.83,0,22.81,14.3,42.3
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,2.9,0.03,33,5.09,1.83,25.21,12,20.3
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,3.67,0.04,41.5,4.83,3.66,30.61,12.3,28.5
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,2.57,0.03,38.2,1.69,4.88,25.21,8.5,20.8
+NEAT_bucher,Gotthard Rail Base Tunnel,tab:brown,x,30,0.8,,1.03,0.04,37.5,6.71,25.02,9.6,15.1,22.3
+GrimselTestSite,Grimsel Test Site,tab:olive,x,30,0.8,,8.3722942,0.077776,9.1959072,0.19940133,27.457713,0,0.53888104,7.65626892
+GrimselTestSite,Grimsel Test Site,tab:olive,x,30,0.8,,7.6268434,0.077776,13.7938608,0.43790096,10.3729138,0,1.7017296,6.3882294
+GrimselTestSite,Grimsel Test Site,tab:olive,x,30,0.8,,4.5408374,0.077776,16.0928376,0.60211382,20.1356562,0,3.54172473,4.95688176
+GrimselTestSite,Grimsel Test Site,tab:olive,x,30,0.8,,8.1398418,0.077776,13.7938608,0.60602365,4.8813712,0,0.43961348,16.98404448
+aspo,Äspö HRL,k,x,30,0.8,129,162,20,600,2,61,0,1230,32
+aspo,Äspö HRL,k,x,30,0.8,860,4400,50,0.05,7,11,0,12300,720
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,145,10.5,1.5,40,0,146.5,0,5.4,1.3
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,244,22.9,4.1,31,0,131.1,0,31,0.5
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,307,10.8,1.3,36,0,130.7,0,6,0.1
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,532,4.2,0.4,61,0,76.6,0,41,0.2
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,72,11.2,1.2,39,0,116.8,0,0.5,11.4
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,126,3.1,0.2,43,0,83.1,0,1,10.8
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,604,13,1.2,53,0,124.3,0,14,2
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,96,9,0.8,47,0,121.9,0,58,7.9
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,279,7.8,0.3,64,0,91.5,0,28,7.3
+chalk,Chalk River Laboratories*,tab:purple,x,30,0.8,672,325,8.1,510,0,19.8,0,1572,83
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,155,17.1,1.6,18.8,0.4,94.3,0,1.8,12.9
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,204,17.6,2.4,21,0.7,96.8,0,1.9,12.8
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,210,14.6,1.9,17.9,0.5,91.4,0,2.1,20
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,373,14.1,1.8,20.1,1.8,82.8,0,2.2,20
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,421,18.3,1.8,13.3,3.3,89.1,0,3.3,22.7
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,14,18.9,2.6,10.7,3.7,85,0,3.8,27.4
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,52,19.8,2.5,10.2,0.6,72,0,10.1,18.9
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,104,14.2,0.3,14.1,0.3,38,0,15.3,18.4
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,158,15.6,1.3,13.5,0.8,58,0,8.1,18.5
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,189,14.6,1.4,17.1,0.5,85,0,1.4,19.6
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,214,14.7,1.7,18.2,0.8,71,0,6.7,19.7
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,239,14.3,2.1,20.2,0.5,84,0,2.9,20
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,286,8.8,0.5,31.2,0.3,81,0,2.9,16.6
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,400,13.9,1.5,19.9,0.6,82.5,0,2.1,18.8
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,100,20.9,2.4,9,0.5,80.4,0,2.6,21.9
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,21,18,2.1,7.9,0.5,71.6,0,2.7,22.9
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,21,18,2.2,8.1,0.6,70.9,0,3.3,22.9
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,21,18.5,2.3,8.2,0.5,71.4,0,3.1,23.4
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,21,19.1,2.5,8.6,0.5,75.9,0,2.8,22.7
+KaeriURT,KAERI URT,tab:pink,x,30,0.8,51,17,2,8,0.5,69.5,0,2.8,23.7
+MIU,Mizunami URL,tab:cyan,x,30,0.8,173.5,27,0.2,110,1.1,6,0,189,1.6
+MIU,Mizunami URL,tab:cyan,x,30,0.8,96.9,16.7,0.4,70.1,0.9,18.7,0,91.5,0.9
+MIU,Mizunami URL,tab:cyan,x,30,0.8,97.3,14,0.01,74,0.2,10,0,96,0.1
+MIU,Mizunami URL,tab:cyan,x,30,0.8,208.5,15.1,0.2,76,1.1,12.3,0,93.9,6.3
+MIU,Mizunami URL,tab:cyan,x,30,0.8,232.8,17.6,0.2,99.5,1,10.8,0,106,3.6
+MIU,Mizunami URL,tab:cyan,x,30,0.8,303.7,19.2,0.1,98.5,1,3.9,0,145,3.9
+MIU,Mizunami URL,tab:cyan,x,30,0.8,306.6,16.5,0.1,88.6,0.6,7.1,0,138,3.9
+MIU,Mizunami URL,tab:cyan,x,30,0.8,310.7,22.1,0.1,91,0.6,7.1,0,146,3.9
+MIU,Mizunami URL,tab:cyan,x,30,0.8,314,21.7,0.1,97,0.6,7.3,0,150,3.7
+MIU,Mizunami URL,tab:cyan,x,30,0.8,324.7,19.9,0.1,103,0.7,7.2,0,158,3.7
+MIU,Mizunami URL,tab:cyan,x,30,0.8,348.8,25.5,0.1,117,0.6,5.5,0,191,4
+MIU,Mizunami URL,tab:cyan,x,30,0.8,366.5,25.3,0.1,114,0.6,5.1,0,211,3.7
+MIU,Mizunami URL,tab:cyan,x,30,0.8,443.8,36.3,0.1,141,0.9,4.7,0,228,3.2
+MIU,Mizunami URL,tab:cyan,x,30,0.8,455.5,42.1,0.2,157,1,4.4,0,267,2.3
+MIU,Mizunami URL,tab:cyan,x,30,0.8,236.8,30.1,0.01,117.9,0.7,6,0,173.5,0.1
+MIU,Mizunami URL,tab:cyan,x,30,0.8,955.3,638.6,0.01,393.5,4.6,4.8,0,1645.4,0.1
+MIU,Mizunami URL,tab:cyan,x,30,0.8,114.7,5.9,0.01,58.7,0.3,10.1,0,37.5,6.8
+MIU,Mizunami URL,tab:cyan,x,30,0.8,220.3,11.1,0.01,68.1,0.9,9.4,0,85.3,8.4
+stripa,Stripa and Äspö HRL,k,x,30,0.8,908-969,94,0.03,218,0.44,18,0,460,57
+stripa,Stripa and Äspö HRL,k,x,30,0.8,765-861,172,0.19,277,1.2,9.25,0,630,102
+stripa,Stripa and Äspö HRL,k,x,30,0.8,355,26,0.09,30,0.21,63,0,50,0.5
+stripa,Stripa and Äspö HRL,k,x,30,0.8,89-104,34,4.5,12.5,1.7,143,0,3.7,8.8
+stripa,Stripa and Äspö HRL,k,x,30,0.8,0-80,13,2.5,2.5,1.7,20,0,14,12

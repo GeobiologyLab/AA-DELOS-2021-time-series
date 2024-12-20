@@ -1,0 +1,10 @@
+## Data from Arnet, Moira. Deep Alpine Fluids: Origin, pathways and dynamic remobilisation in response to hydraulic stimulations at the Bedretto Underground Laboratory for Geoenergies (BULGG). MS thesis. ETH Zurich, 2021.
+River,Locality,Lat.,Lon. ,Elevation,Site Type,d18OcalMean,d2HcalMean, d18O precision, d2H precision
+Rhone,Glacier Ice,46.57877,8.38562,2300,P,-13.40,-93.54,0.03,0.30
+Rhone,Ice Cave,46.58032,8.38693,2242,P,-13.07,-90.77,0.05,0.26
+Rhone ,Glacier  ,,,,P,-13.54,-93.55,0.07,0.18
+Snow,Gletsch,46.56276,8.36281,1759,P,-13.06,-90.77,0.06,0.52
+(SNOW),Chandolin,46.252024,7.5975141,1920,,-12.47,-78.96,0.03,0.08
+Rhône,Oberwald,46.535184,8.350364,1363,,-17.26,-122.55,0.02,0.19
+Rhône,Oberwald,46.535184,8.350364,1363,,-16.64,-117.86,0.03,0.11
+(SNOW),Chandolin,46.263858,7.596174,2066,,-13.7,-88.61,0.04,0.08

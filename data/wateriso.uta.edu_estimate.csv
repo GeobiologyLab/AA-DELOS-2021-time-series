@@ -1,0 +1,8 @@
+﻿#estimate from https://wateriso.utah.edu/waterisotopes/pages/data_access/oipc.html for N 46.51757  E 8.46612,,,,
+Elevation,dD_ppt,d18O_ppt,dD_CI,d18O_CI
+3191,-106,-15.3,9,0.9
+3000,-104,-14.9,9,0.8
+2500,-96,-13.8,7,0.6
+2000,-88,-12.7,5,0.5
+1500,-80,-11.6,3,0.3
+1000,-73,-10.4,2,0.2
